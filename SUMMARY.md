@@ -16,11 +16,16 @@
 ## 🎮 Gameplay
 
 * [🔔 Général](gameplay/general/general.md)
-  * [🔨 Métier](gameplay/general/jobs.md)
   * [👑 Rangs](gameplay/general/ranks.md)
+  * [🔨 Métier](gameplay/general/jobs.md)
   * [🎫 Pass de combat](gameplay/general/battle_pass.md)
+  * [🛒 Shop](gameplay/general/shop.md)
+  * [🏛️ Hotel de vente](gameplay/general/auction_house.md)
   * [⚙️ Recettes de craft](gameplay/general/recipes.md)
+  * [🪭 Collection](gameplay/general/collection.md)
   * [🎁 Récompenses](gameplay/general/rewards.md)
+  * [💎 Boutique](gameplay/general/store.md)
+  * [🎉 Événements](gameplay/general/events.md)
 * [🏝️ Votre île](gameplay/your_island/your_island.md)
   * [🥕 Cultures](gameplay/your_island/crops.md)
   * [🐮 Élevage](gameplay/your_island/breeds.md)
