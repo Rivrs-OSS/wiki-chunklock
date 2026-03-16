@@ -2,10 +2,8 @@
 
 ## 🎣 Poissons disponibles à la pêche
 
-- Sardine
-- Anchois
-- Flétan
-- Brochet
-- Fugu
-- Anguille
-- Carpe
+| <mark style="color:green;">**Commun**</mark> | <mark style="color:blue;">**Rare**</mark> | <mark style="color:purple;">**Épique**</mark> |
+| --------------- | ----------| ------------|
+| Sardine         | Flétan    | Anguille    |
+| Anchois         | Brochet   | Carpe       |
+|                 | Fugu      |             |
