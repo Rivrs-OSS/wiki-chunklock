@@ -32,7 +32,7 @@ git config --global user.email "votre-email@example.com"
 
 ### <mark style="color:blue;">1.</mark> <mark style="color:blue;">Forker le Repository</mark>
 
-* Rendez-vous sur [wiki-mineberry](https://github.com/Rivrs-OSS/wiki-mineberry)
+* Rendez-vous sur [wiki-chunklock](https://github.com/Rivrs-OSS/wiki-chunklock)
 * Cliquez sur le bouton <mark style="color:blue;">**Fork**</mark> en haut à droite pour créer une copie du repository sur votre compte.
 
 ### <mark style="color:blue;">2. Cloner votre Fork sur votre ordinateur</mark>
@@ -40,8 +40,8 @@ git config --global user.email "votre-email@example.com"
 Copiez le lien de votre fork puis dans votre terminal :
 
 ```bash
-git clone https://github.com/VOTRE-NOM-UTILISATEUR/wiki-mineberry.git
-cd wiki-mineberry
+git clone https://github.com/VOTRE-NOM-UTILISATEUR/wiki-chunklock.git
+cd wiki-chunklock
 ```
 
 ### <mark style="color:blue;">3. Créer une nouvelle branche</mark>
