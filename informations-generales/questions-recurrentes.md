@@ -99,7 +99,7 @@ Si au bout de <mark style="color:$primary;">**10 minutes**</mark> la commande co
 
 * Après avoir placé <mark style="color:$primary;">l'enclos</mark> à l'endroit souhaité, faites un clic droit pour ouvrir son menu. Vous pouvez ensuite y placer un animal au niveau de la flèche. En réouvrant le menu, vous pourrez retrouver votre animal dans le slot adéquat et y placer la nourriture adéquate pour qu'il puisse produire des ressources. Un menu est disponible afin de fournir des informations sur les nourritures nécessaires pour chaque animal. 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Si l'animal revient dans l'inventaire, reprenez <mark style="color:$primary;">l'enclos</mark> dans votre inventaire en le vidant au préalable, puis reposez-le.
 {% endhint %}
 
